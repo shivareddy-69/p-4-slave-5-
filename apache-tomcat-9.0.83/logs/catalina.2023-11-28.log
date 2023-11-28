@@ -1,0 +1,62 @@
+28-Nov-2023 05:21:54.144 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.83
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Nov 9 2023 20:57:42 UTC
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.83.0
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Linux
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            5.10.199-190.747.amzn2.x86_64
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             /usr/lib/jvm/java-1.8.0-openjdk-1.8.0.382.b05-1.amzn2.0.2.x86_64/jre
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_382-b05
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Red Hat, Inc.
+28-Nov-2023 05:21:54.150 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         /home/ec2-user/apache-tomcat-9.0.83
+28-Nov-2023 05:21:54.151 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         /home/ec2-user/apache-tomcat-9.0.83
+28-Nov-2023 05:21:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=/home/ec2-user/apache-tomcat-9.0.83/conf/logging.properties
+28-Nov-2023 05:21:54.174 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+28-Nov-2023 05:21:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+28-Nov-2023 05:21:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+28-Nov-2023 05:21:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dorg.apache.catalina.security.SecurityListener.UMASK=0027
+28-Nov-2023 05:21:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+28-Nov-2023 05:21:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=/home/ec2-user/apache-tomcat-9.0.83
+28-Nov-2023 05:21:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=/home/ec2-user/apache-tomcat-9.0.83
+28-Nov-2023 05:21:54.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=/home/ec2-user/apache-tomcat-9.0.83/temp
+28-Nov-2023 05:21:54.179 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib]
+28-Nov-2023 05:21:54.990 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+28-Nov-2023 05:21:55.060 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1392] milliseconds
+28-Nov-2023 05:21:55.148 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+28-Nov-2023 05:21:55.148 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.83]
+28-Nov-2023 05:21:55.164 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/ROOT]
+28-Nov-2023 05:21:55.689 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/ROOT] has finished in [524] ms
+28-Nov-2023 05:21:55.689 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/docs]
+28-Nov-2023 05:21:55.746 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/docs] has finished in [57] ms
+28-Nov-2023 05:21:55.747 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/examples]
+28-Nov-2023 05:21:56.310 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/examples] has finished in [564] ms
+28-Nov-2023 05:21:56.312 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/host-manager]
+28-Nov-2023 05:21:56.366 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/host-manager] has finished in [54] ms
+28-Nov-2023 05:21:56.367 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/manager]
+28-Nov-2023 05:21:56.446 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/manager] has finished in [80] ms
+28-Nov-2023 05:21:56.454 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+28-Nov-2023 05:21:56.573 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [1512] milliseconds
+28-Nov-2023 05:24:46.488 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/ec2-user/apache-tomcat-9.0.83/webapps/webapp-1.8.war]
+28-Nov-2023 05:24:46.571 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Nov-2023 05:24:46.601 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [/home/ec2-user/apache-tomcat-9.0.83/webapps/webapp-1.8.war] has finished in [113] ms
+28-Nov-2023 05:31:43.186 INFO [http-nio-8080-exec-10] org.apache.coyote.http11.Http11Processor.service Error parsing HTTP request header
+ Note: further occurrences of HTTP request parsing errors will be logged at DEBUG level.
+	java.lang.IllegalArgumentException: Invalid character found in method name [0x160x030x010x000xee0x010x000x000xea0x030x030x9a0xf90x8c0xcb0xdc0xe30xa40x8f0x1e0xfd|0xc380x80X0xa4Yy0xc60xcd0xb6E0xcd0x16a0xbc(0xd4L0x850xc8X ]. HTTP method names must be tokens
+		at org.apache.coyote.http11.Http11InputBuffer.parseRequestLine(Http11InputBuffer.java:407)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:263)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:928)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1794)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.lang.Thread.run(Thread.java:750)
+28-Nov-2023 05:39:36.791 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/host-manager]
+28-Nov-2023 05:39:36.819 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/host-manager]
+28-Nov-2023 05:39:36.865 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Nov-2023 05:39:36.876 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/host-manager] has finished in [52] ms
+28-Nov-2023 05:41:06.886 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/manager]
+28-Nov-2023 05:41:06.895 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/manager]
+28-Nov-2023 05:41:06.944 INFO [Catalina-utility-1] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+28-Nov-2023 05:41:06.948 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [/home/ec2-user/apache-tomcat-9.0.83/webapps/manager] has finished in [53] ms
+28-Nov-2023 05:49:47.000 INFO [Catalina-utility-1] org.apache.catalina.users.MemoryUserDatabase.backgroundProcess Reloading memory user database [UserDatabase] from updated source [file:/home/ec2-user/apache-tomcat-9.0.83/conf/tomcat-users.xml]
